@@ -1,0 +1,11 @@
+--- /var/www/redcap/redcap_v6.13.0/API/metadata/import.php	2016-06-30 11:33:28.257989921 -0700
++++ /var/www/redcap/redcap_v6.13.0/API/metadata/import_new.php	2016-06-30 11:34:35.295491740 -0700
+@@ -54,7 +54,7 @@
+ 	}
+ 
+ 	// Save a flat item-based metadata array
+-	list ($count, $errors) = Metadata::saveMetadataFlat($data);
++	list ($count, $errors) = MetaData::saveMetadataFlat($data);
+ 
+ 	// Return any errors found when attempting to commit
+ 	if (!empty($errors)) {

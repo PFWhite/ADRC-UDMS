@@ -1,0 +1,5 @@
+<?php
+    define('USERID', 'site_admin');
+    $projects = array('1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11');
+    $enable_logging =  true;
+?>

@@ -1,0 +1,12 @@
+event_name,arm_num,day_offset,offset_min,offset_max,unique_event_name,custom_event_label
+"Initial Visit Year 1",1,1,0,0,initial_visit_year_arm_1,
+"Follow-up Visit Year 2",1,2,0,0,followup_visit_yea_arm_1,
+"Milestone Visit 1",1,3,0,0,milestone_visit_1_arm_1,
+"Telephone Visit 1",1,4,0,0,telephone_visit_1_arm_1,
+"Follow-up Visit Year 3",1,5,0,0,followup_visit_yea_arm_1b,
+"Follow-up Visit Year 4",1,6,0,0,followup_visit_yea_arm_1c,
+"Follow-up Visit Year 5",1,7,0,0,followup_visit_yea_arm_1d,
+"Follow-up Visit Year 6",1,8,0,0,followup_visit_yea_arm_1e,
+"Follow-up Visit Year 7",1,9,0,0,followup_visit_yea_arm_1f,
+"Follow-up Visit Year 8",1,10,0,0,followup_visit_yea_arm_1g,
+Neuropathology,1,11,0,0,neuropathology_arm_1,
