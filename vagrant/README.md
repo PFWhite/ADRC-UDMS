@@ -16,5 +16,5 @@ With the above requirements and configuration completed, start the VM with the c
 
     vagrant up
 
-After about two minutes, the VM should be accessible at [http://redcap.dev/redcap/](http://redcap.dev/redcap/) and at [https://redcap.dev/redcap/](https://redcap.dev/redcap/) (or whatever URL _URL\_OF\_DEPLOYED\_APP_ is set to in _.env_)
+After about two minutes, the VM should be accessible at [http://udmsrc.dev/redcap/](http://udmsrc.dev/redcap/) and at [https://udmsrc.dev/redcap/](https://udmsrc.dev/redcap/) (or whatever URL _URL\_OF\_DEPLOYED\_APP_ is set to in _.env_)
 
