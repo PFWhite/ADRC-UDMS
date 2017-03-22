@@ -1,8 +1,8 @@
-# REDCap VM for the HCV Target Project
+# REDCap VM for the ADRC UDMS
 
 ## Overview
 
-This directory contains a Vagrant VM used to testing and development work on the HCV Target 2.0 and 3.0 projects. It is based on the VM defined in CTS-IT's redcap_deployment repo.
+This directory contains a Vagrant VM used to testing and development work on the ADRC UDMS. It is based on the VM defined in CTS-IT's redcap_deployment repo.
 
 ## Requirements
 
