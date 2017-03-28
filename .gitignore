@@ -1,0 +1,5 @@
+#Redcap files
+app/
+vagrant/.vagrant
+vagrant/redcap6.16.0.zip
+
