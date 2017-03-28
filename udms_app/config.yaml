@@ -1,0 +1,12 @@
+cappy_version: "lineman.json"
+data_path: "/udms/"
+redcap_configs:
+  - name: neuropath
+    url: localhost
+    token: xxxxxxxxxxxxxxxxxxxxxxxxx
+    reports: true
+    metadata: true
+    comment: this is for the redcap that contains all the neuropath stuff
+backup_intervals:
+  days: 30
+  weeks: 52
