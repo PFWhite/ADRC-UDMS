@@ -2,4 +2,9 @@
 app/
 vagrant/.vagrant
 vagrant/redcap6.16.0.zip
+*pyc
+projects/1fladrc/admin_user.token
+projects/1fladrc/project.info
+vagrant/project_management_scripts/super_user.token
+
 
